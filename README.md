@@ -1,2 +1,11 @@
-# bootcampchallenges
-This is a repo for all of the weekly coding challenges I completed as part of the full-stack web dev boot camp.
+## Description
+
+In this activity, I refactored a base of starter code to follow accessibility standards so that the site is optimized for search engines. This included ensuring the code has semantic HTML elements, which follow a logical structure independent of styling and positioning, as well as giving the page a descriptive title and giving images accessible alt attributes.
+
+## Screenshot
+
+![HoriseonScreenshot] (MAY25/Challenge1-CodeRefactor/screencapHoriseon.png)
+
+## Link to deployed application
+
+<link>
