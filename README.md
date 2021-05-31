@@ -4,7 +4,7 @@ In this activity, I refactored a base of starter code to follow accessibility st
 
 ## Screenshot
 
-![HoriseonScreenshot] (MAY25/Challenge1-CodeRefactor/screencapHoriseon.png)
+![HoriseonScreenshot] 
 
 ## Link to deployed application
 
